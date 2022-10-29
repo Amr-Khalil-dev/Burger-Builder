@@ -1,0 +1,14 @@
+https://react-my-burger-akm-default-rtdb.firebaseio.com/
+
+https://react-my-burger-akm-default-rtdb.firebaseio.com/ingredients
+
+firebase rest auth
+
+'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyC0dtFN-wMbdt5xQoJ2_3l1mlVJqPv8S-4'
+'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyC0dtFN-wMbdt5xQoJ2_3l1mlVJqPv8S-4'
+
+
+
+
+
+change rules from last lec at auth
